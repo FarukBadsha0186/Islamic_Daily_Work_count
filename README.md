@@ -1,4 +1,6 @@
 # Islamic_Daily_Work_count
+#full project link https://github.com/FarukBadsha0186/Islamic_Daily_Work_count
+
 #https://farukbadsha0186.github.io/Islamic_Daily_Work_count/
 
 #output
