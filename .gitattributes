@@ -1,2 +1,2 @@
 *.java linguist-detectable=true
-*.my sql linguist-detectable=true
+*.sql linguist-detectable=true
